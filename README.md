@@ -5,8 +5,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/aboutsajjad/Bridge/blob/master/LICENSE)
 
-**Implemented in Swift/Objectice-c using the Python.**
-
 **Master Branch is Server Clinet and is Useless please use One of Following Branches**
 
 * **[With Server Inside(Recommended)](https://github.com/aboutsajjad/Bridge/tree/withServerInside)**
