@@ -1,4 +1,7 @@
 # Bridge
+[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/aboutsajjad/Bridge/blob/master/LICENSE)
+[![built with Python3](https://img.shields.io/badge/built%20with-Python3-green.svg)](https://www.python.org/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 **Master Branch is Server Clinet and is Useless please use One of Following Branches**
 
